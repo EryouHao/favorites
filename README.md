@@ -11,3 +11,4 @@ My Favorites
 
 4.[savefrom.net](http://en.savefrom.net/)---- 下载youtube视频
 
+5.[2ality](http://2ality.com/index.html)---- JS学习英文站
