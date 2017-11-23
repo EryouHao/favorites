@@ -2,7 +2,8 @@
 
 function hello () {
   var name = 'fehey'
-  console.log(`hello ${name}`)
+  var age = '18'
+  console.log(`hello ${name}, My age is ${age}`)
 }
 
 hello()
