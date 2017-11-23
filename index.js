@@ -1,7 +1,8 @@
 // 测试文件
 
 function hello () {
-  console.log('hello world')
+  var name = 'fehey'
+  console.log(`hello ${name}`)
 }
 
 hello()
